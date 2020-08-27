@@ -1,0 +1,10 @@
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Release\Links.xml
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Release\URIEditor.exe.config
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Release\URIEditor.exe
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Release\URIEditor.pdb
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.Properties.Resources.resources
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.csproj.GenerateResource.cache
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.csproj.CoreCompileInputs.cache
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.exe
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.pdb
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Release\URIEditor.csprojAssemblyReference.cache

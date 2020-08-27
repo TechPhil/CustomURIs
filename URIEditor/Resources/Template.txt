@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--This file must have the following schema - 
+<root>
+  <url>
+    <shortlink>example</shortlink>
+    <fullurl>http://www.example.com</fullurl>
+  </url>
+</root>
+
+Repeat the <url> element for each URL you wish to add - 
+<root>
+  <url>
+    <shortlink>example1</shortlink>
+    <fullurl>http://www.example.com/1</fullurl>
+  </url>
+  <url>
+    <shortlink>example2</shortlink>
+    <fullurl>http://www.example.com/2</fullurl>
+  </url>
+</root>
+-->
+<root>
+</root>

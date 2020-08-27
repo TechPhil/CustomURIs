@@ -1,0 +1,10 @@
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Debug\URIEditor.exe.config
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Debug\URIEditor.exe
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Debug\URIEditor.pdb
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.csprojAssemblyReference.cache
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.Properties.Resources.resources
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.csproj.GenerateResource.cache
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.csproj.CoreCompileInputs.cache
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.exe
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\obj\Debug\URIEditor.pdb
+D:\User_Phil\Desktop\projects\customuri\CustomURI\URIEditor\bin\Debug\Links.xml
