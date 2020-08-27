@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TechPhil/CustomURIs/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/TechPhil/CustomURIs.svg)](https://github.com/TechPhil/CustomURIs/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/TechPhil/CustomURIs.svg)](https://GitHub.com/TechPhil/CustomURIs/releases/)
+[![GitHub commits](https://img.shields.io/github/commits-since/TechPhil/CustomURIs/1.0.0)](https://GitHub.com/TechPhil/CustomURIs/commit/)
+[![Github all releases](https://img.shields.io/github/downloads/TechPhil/CustomURIs/total.svg)](https://GitHub.com/TechPhil/CustomURIs/releases/)
+[![Only 32 Kb](https://badge-size.herokuapp.com/TechPhil/CustomURIs/master/URIEditor/bin/Release/URIEditor.exe)](https://github.com/TechPhil/CustomURIs/blob/master/URIEditor/bin/Release/URIEditor.exe)
+[![HitCount](http://hits.dwyl.io/TechPhil/badges.svg)](http://hits.dwyl.io/TechPhil/badges)
 
 # CustomURIs
 An app which registers and allows editing of a custom URI schema (goto://)
