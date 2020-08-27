@@ -24,6 +24,7 @@ namespace URIEditor
             try
             {
                 RegisterApplication(args[0], xmlPath);
+                Environment.Exit(0);
             }
             catch (UnauthorizedAccessException)
             {
